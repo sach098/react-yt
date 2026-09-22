@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neun';
+  color: #080808;
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.card1-button{
+  width: 10px;
+  height: 10px;
+  background-color: #080808;
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+
+.card1{
+  width: 500px;
+  height: 200px ;
+  
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: aquamarine;
+  text-align: center;
+
+}

@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neun';
+  color: #080808;
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: rgb(247, 243, 243);
+}
+.class1{
+  background-color: aqua;
+  padding: 20 px;
+  margin: 10px;
+  border-radius: 10%;
+ 
+}
+.nav1{
+  background-color: antiquewhite;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
